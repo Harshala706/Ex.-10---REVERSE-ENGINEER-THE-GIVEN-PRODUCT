@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 17-04-2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -11,17 +11,17 @@
 ### ●	 System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
-### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
-### Step 3.:- Save the file and export as .stl
-### Step 4.:- Check all Electrical connections in the 3D printer.
-### Step 5.:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
-### Step 6.:- Select the Pan option and select the extruder (left or right) for printing the design.
-### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
-### Step 8.:- select the Scale option for design scale according to build tack plate area and then
+### Step 1 :- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
+### Step 2 :- Design the geometric features in 3D using auto desk fusion 360.
+### Step 3 :- Save the file and export as .stl
+### Step 4 :- Check all Electrical connections in the 3D printer.
+### Step 5 :- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option.
+### Step 6 :- Select the Pan option and select the extruder (left or right) for printing the design.
+### Step 7 :- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
+### Step 8 :- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
-### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
-### Step 10.:- After generate the gcode format then follow the these instruction 
+### Step 9 :- After completing the all setting then click the Slice option and export the file in gcode Format.
+### Step 10 :- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
   ###   ●	Clean your surface bed plate.
@@ -31,15 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Screenshot 2024-12-05 141409](https://github.com/user-attachments/assets/61229d4e-764f-4985-b5bf-f4b7e43ed70a)
+![Screenshot 2025-05-05 141629](https://github.com/user-attachments/assets/0d8b1876-4025-4e0f-a76f-9116782231cf)
 
 
 ### Output:
-![Screenshot 2024-12-05 141420](https://github.com/user-attachments/assets/1b1f82ee-0941-47c1-b2e1-f4f2b1fcf0c8)
+
+![Screenshot 2025-04-17 162732](https://github.com/user-attachments/assets/9d9a2181-aa91-477b-bdef-7bae158cb742)
 
 
-### Name: PRAVEEN RAJ R
-### Register Number: 24901056
+### Name: B Harshala Reddy
+### Register Number: 212224040050
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
