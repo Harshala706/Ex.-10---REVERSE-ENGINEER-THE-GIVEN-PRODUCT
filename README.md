@@ -31,13 +31,12 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![Screenshot 2025-05-05 141629](https://github.com/user-attachments/assets/0d8b1876-4025-4e0f-a76f-9116782231cf)
 
+![Screenshot 2025-05-21 103226](https://github.com/user-attachments/assets/df5d7a11-e48e-460d-8137-1d8277f08de9)
 
 ### Output:
 
-![Screenshot 2025-04-17 162732](https://github.com/user-attachments/assets/9d9a2181-aa91-477b-bdef-7bae158cb742)
-
+![Screenshot 2025-05-21 103249](https://github.com/user-attachments/assets/73388170-e4bb-497e-94cd-ac3a8ca13106)
 
 ### Name: B Harshala Reddy
 ### Register Number: 212224040050
